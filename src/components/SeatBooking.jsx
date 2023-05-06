@@ -57,10 +57,11 @@ const SeatBooking = () => {
 
   return (
     <div className="seat-booking">
-      {renderRows()}
+        <div className="seat-container">
+            {renderRows()}
+        </div>
     </div>
   );
 };
-
 
 export default SeatBooking;
