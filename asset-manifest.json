@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dazilio/react-seat-booking/static/css/main.cba19103.css",
+    "main.js": "/dazilio/react-seat-booking/static/js/main.c1e9c09e.js",
+    "static/js/496.8d8ce206.chunk.js": "/dazilio/react-seat-booking/static/js/496.8d8ce206.chunk.js",
+    "index.html": "/dazilio/react-seat-booking/index.html",
+    "main.cba19103.css.map": "/dazilio/react-seat-booking/static/css/main.cba19103.css.map",
+    "main.c1e9c09e.js.map": "/dazilio/react-seat-booking/static/js/main.c1e9c09e.js.map",
+    "496.8d8ce206.chunk.js.map": "/dazilio/react-seat-booking/static/js/496.8d8ce206.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cba19103.css",
+    "static/js/main.c1e9c09e.js"
+  ]
+}
